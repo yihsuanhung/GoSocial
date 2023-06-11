@@ -1,4 +1,4 @@
-![FeatureGoArticls (1)](https://github.com/yihsuanhung/go-social/assets/58166555/f7bde9a6-ec9a-429b-a5eb-b367c05d196f)
+![GitHubGoArticls](https://github.com/yihsuanhung/go-social/assets/58166555/6f84c762-d1c2-4131-9582-91c85ffd756e)
 
 
 # GoSocial
