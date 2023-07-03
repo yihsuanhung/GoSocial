@@ -2,7 +2,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,react,mysql)]()
 
 
 
