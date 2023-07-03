@@ -6,6 +6,6 @@
 
 
 
-Visit [Wiki📖](https://github.com/yihsuanhung/go-social/wiki) for more information
+Visit [Wiki📖](https://github.com/yihsuanhung/go-social/wiki) for design detail and architecture.
 
 
