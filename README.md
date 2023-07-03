@@ -6,4 +6,6 @@
 
 This is a social platform built with Go and TypeScript/React.
 
-For more detailed design information, please visit the GitHub Wiki page: https://github.com/yihsuanhung/go-social/wiki
+Visit [Wiki🔥](https://github.com/yihsuanhung/go-social/wiki) for more information
+
+
