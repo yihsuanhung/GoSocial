@@ -8,4 +8,4 @@
 
 Visit [Wiki 📖](https://github.com/yihsuanhung/go-social/wiki) for design detail and system architecture.
 
-WORK IN PROGRESS
+WORK IN PROGRESS 🏗️
